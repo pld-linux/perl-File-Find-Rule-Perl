@@ -8,13 +8,13 @@
 Summary:	File::Find::Rule::Perl - Common rules for searching for Perl things
 Summary(pl.UTF-8):	File::Find::Rule::Perl - wspólne reguly do szukania rzeczy perlowych
 Name:		perl-File-Find-Rule-Perl
-Version:	1.13
+Version:	1.15
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/File/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	c3ee4f00f643f82fdb6f1cbcebfa90de
+# Source0-md5:	d8b458792b7eed83c744ae30b1bc3348
 URL:		http://search.cpan.org/dist/File-Find-Rule-Perl/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
