@@ -4,7 +4,6 @@
 #
 %define		pdir	File
 %define		pnam	Find-Rule-Perl
-%include	/usr/lib/rpm/macros.perl
 Summary:	File::Find::Rule::Perl - Common rules for searching for Perl things
 Summary(pl.UTF-8):	File::Find::Rule::Perl - wspólne reguly do szukania rzeczy perlowych
 Name:		perl-File-Find-Rule-Perl
